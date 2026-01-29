@@ -1,0 +1,23 @@
+{
+  "name": "container-factory",
+  "version": "1.0.0",
+  "description": "A robust discord.js utility for building Discord Components v2 (Containers, Sections, etc.)",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord.js",
+    "discord",
+    "components",
+    "v2",
+    "container",
+    "builder"
+  ],
+  "author": "Ramkrishna",
+  "license": "MIT",
+  "peerDependencies": {
+    "discord.js": "^14.25.1"
+  }
+}
